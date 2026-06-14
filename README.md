@@ -1,5 +1,10 @@
 # Data Jobs Market Analysis Dashboard
 
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![DAX](https://img.shields.io/badge/DAX-Measures-blue)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green)
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-orange)
+
 ## Overview
 
 This project analyzes over 32,000 job postings from the data industry using Power BI. The dashboard provides insights into hiring demand, salary trends, and compensation patterns across roles such as Data Analyst, Data Scientist, Data Engineer, and Business Analyst.
