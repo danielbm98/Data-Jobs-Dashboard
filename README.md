@@ -44,7 +44,7 @@ This project analyzes over 32,000 job postings from the data industry using Powe
 
 ## Dashboard Preview
 
-<img width="1421" height="792" alt="image" src="https://github.com/user-attachments/assets/10d278f1-8f3f-40fb-be1c-b616ad0822e9" />
+<img width="1420" height="786" alt="image" src="https://github.com/user-attachments/assets/3f1476a4-ee6a-48d5-8c57-5986f7c8ba5e" />
 
 <img width="1427" height="797" alt="image" src="https://github.com/user-attachments/assets/c1738bfc-c385-4789-a881-fc289ef14c9d" />
 
