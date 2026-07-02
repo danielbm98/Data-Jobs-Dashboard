@@ -27,6 +27,12 @@ Filter the dashboard by job title to instantly compare hiring demand, salary met
 
 <img width="1466" height="811" alt="job data overview" src="https://github.com/user-attachments/assets/e5c4c69b-0add-4c4e-85f6-57d341e5ab48" />
 
+## Job Demand & Salary Comparison
+
+Compare the most in-demand data careers alongside key metrics such as job count, median yearly salary, median hourly salary, and hiring trends to identify high-demand, high-paying roles.
+
+<img width="1470" height="340" alt="job data table" src="https://github.com/user-attachments/assets/5135be52-f02d-4faa-b32a-c71e26c8b8d5" />
+
 ---
 
 ## Job Title Drill Through
@@ -46,7 +52,7 @@ Analyze additional characteristics for each role, including:
 - Hiring platforms
 - Employment types
 
-<img width="1466" height="811" alt="job data drill through changing" src="https://github.com/user-attachments/assets/2d1b456f-df78-438e-ba95-ab66afa5c1f5" />
+<img width="1466" height="811" alt="job data drill through changing" src="https://github.com/user-attachments/assets/6fcdeb4d-5175-495e-858d-9dfe99e455b5" />
 
 ---
 
