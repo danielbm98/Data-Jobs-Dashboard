@@ -21,13 +21,32 @@
 
 <img width="1420" height="786" alt="image" src="https://github.com/user-attachments/assets/3f1476a4-ee6a-48d5-8c57-5986f7c8ba5e" />
 
+## Interactive Filters
+
+Filter the dashboard by job title to instantly compare hiring demand, salary metrics, and trends.
+
+<img width="1466" height="811" alt="job data overview" src="https://github.com/user-attachments/assets/e5c4c69b-0add-4c4e-85f6-57d341e5ab48" />
+
 ---
 
 ## Job Title Drill Through
 
 Analyze detailed information for individual roles, including salary benchmarks, work-from-home availability, benefits, hiring platforms, and employment types.
 
-<img width="1427" height="797" alt="image" src="https://github.com/user-attachments/assets/c1738bfc-c385-4789-a881-fc289ef14c9d" />
+<img width="1466" height="811" alt="job data drill through" src="https://github.com/user-attachments/assets/f3304660-7a03-40a6-8242-d7767f72d3a5" />
+
+
+## Job Market Insights
+
+Analyze additional characteristics for each role, including:
+
+- Work-from-home availability
+- Degree requirements
+- Health insurance mentions
+- Hiring platforms
+- Employment types
+
+<img width="1466" height="811" alt="job data drill through changing" src="https://github.com/user-attachments/assets/2d1b456f-df78-438e-ba95-ab66afa5c1f5" />
 
 ---
 
